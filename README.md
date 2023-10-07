@@ -131,4 +131,4 @@ Here is where you will have all the fun.
 
 
 # Got a question?
-If you have any questions that are bothering you please contact me on my <a href = "http://risingved.rv@gmail.com">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
+If you have any questions please contact me on my <a href = "http://risingved.rv@gmail.com">email ID</a>.
