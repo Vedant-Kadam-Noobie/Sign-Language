@@ -2,7 +2,7 @@
 This project entails the implementation of a Convolutional Neural Network (CNN), a sophisticated deep learning architecture specifically designed for image recognition and classification tasks.
 
 ## Note
-Simple-OpenCV-Calculator and this project are merged to one.
+OpenCV-Calculator and this project are merged to one.
 
 ## What I did here
 1. The first thing I did was, I created 44 gesture samples using OpenCV. For each gesture I captured 1200 images which were 50x50 pixels. All theses images were in grayscale which is stored in the gestures/ folder. The pictures were flipped using flip_images.py. This script flips every image along the vertical axis. Hence each gesture has 2400 images.
